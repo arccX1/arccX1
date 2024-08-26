@@ -1,7 +1,7 @@
 - 👋 Hey Hi Hello - I’m @arccX1
 - American Banker and Financier
 
-- My passions are finance,technology,innovation
+- My passions are finance, technology, innovation
 - I’m currently learning full stack development, Python, C++
 - I collaborate on tradfi and defi projects
 
