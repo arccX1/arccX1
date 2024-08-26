@@ -8,4 +8,5 @@
 - ⚡ Fun fact: There were 430-460 New ETFs launched in the USA in 2023, the most ever recorded in one calendar year.
 - 📫 Via LinkedIn or Telegram
 
+- Currently writing my whitepaper ~
 
