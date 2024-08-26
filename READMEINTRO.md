@@ -6,6 +6,6 @@
 - I collaborate on tradfi and defi projects
 
 - ⚡ Fun fact: There were 430-460 New ETFs launched in the USA in 2023, the most ever recorded in one calendar year.
-- 📫 via LinkedIn or Telegram
+- 📫 Via LinkedIn or Telegram
 
 
