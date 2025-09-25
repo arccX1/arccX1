@@ -7,7 +7,7 @@
 
 - "The best way to predict your future is to create it" - Lincoln
 
-- 📫 Via Telegram
+- 📫 Domain coming soon... just hang tight 
 
 - Currently writing my whitepaper ~
 - developing on l2 solana network
